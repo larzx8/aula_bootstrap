@@ -1,0 +1,43 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #717D7E;
+}
+
+.quem-somos {
+    background-color: #B2BABB;
+}
+
+.margin {
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #CECECE;
+    justify-content: center;
+    margin-top: -10px;
+}
+
+.row {
+    padding-bottom: 0;
+    width: 100%;
+    max-width: 100vw;
+}
+
+.container {
+    /* width: 100%;
+    max-width: 100vw; */
+}
+
+.row .col-lg-4 {
+    justify-content: center;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    font-size: 12px;
+}
